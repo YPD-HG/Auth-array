@@ -1,4 +1,4 @@
-Live Link :
+Live Link : https://ypd-hg.github.io/Auth-array/
 
 Authentication using bcrypt.
 
